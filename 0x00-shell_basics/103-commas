@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pd .[^.]* * | sed -e '$!s/$/,/' -e '$s/$/\n/'
+mkdir -p welcome/to/school
