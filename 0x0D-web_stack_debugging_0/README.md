@@ -1,2 +1,18 @@
-# `Web Stack Debugging 0`
-![](https://www.collidu.com/media/catalog/product/img/e/b/ebe55f5868a1bcf508c9cf7ec236c4e5398072c5968e5564957508c545ebb5de/debugging-process-slide1.png)
+# 0x0D. Web stack debugging #0
+
+## Resources:books:
+Read or watch:
+
+---
+## Learning Objectives:bulb:
+What you should learn from this project:
+
+---
+
+### [0. Give me a page!](./0-give_me_a_page)
+* Be sure to read the Docker concept page.
+
+---
+
+## Author
+* **Dairo Facundo Duarte** - [dairof7](https://github.com/dairof7)
